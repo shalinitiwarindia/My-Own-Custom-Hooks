@@ -1,3 +1,4 @@
+![Screenshot 2024-11-20 155423](https://github.com/user-attachments/assets/079cc07a-49d4-483d-aa7d-6a376453d408)
 1. useToggle
 Purpose: Manages a boolean state with a toggle function.
 Parameters:
